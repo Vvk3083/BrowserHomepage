@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Personal Dashboard",
+    "name": "Browser Home",
     "version": "1.0.0",
     "description": "Extension for browser",
     "action": {
